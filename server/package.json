@@ -1,0 +1,17 @@
+{
+  "name": "visitTracker-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "knex": "^0.13.0",
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "pg": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
