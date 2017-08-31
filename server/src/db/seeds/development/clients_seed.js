@@ -1,4 +1,3 @@
-
 exports.seed = function(knex, Promise) {
   return knex('clients').del()
     .then(function() {
